@@ -9,7 +9,8 @@ How to use Crontab
     
     crontab -l
     
-3.Create crontb
+ # Crontab file
+ 
+![crontab](https://user-images.githubusercontent.com/47558327/145251444-8d1ef4ea-491d-4ce5-9839-e2cc025336fb.png)
 
-    
 
